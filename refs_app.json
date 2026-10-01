@@ -1,0 +1,1143 @@
+[
+ {
+  "key": "hughes2015plantvillage",
+  "authors": [
+   "D. P. Hughes",
+   "M. Salathé"
+  ],
+  "title": "An open access repository of images on plant health to enable the development of mobile disease diagnostics",
+  "venue": "arXiv preprint arXiv:1511.08060",
+  "year": 2015,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.48550/arXiv.1511.08060",
+  "type": "arxiv",
+  "theme": 1,
+  "one_line_finding": "Releases the PlantVillage collection of over 50,000 curated leaf images on uniform backgrounds across many crop-disease classes, the de facto lab benchmark.",
+  "verified": true,
+  "note": "Verified via DataCite (arXiv DOI)."
+ },
+ {
+  "key": "mohanty2016plantvillage",
+  "authors": [
+   "S. P. Mohanty",
+   "D. P. Hughes",
+   "M. Salathé"
+  ],
+  "title": "Using deep learning for image-based plant disease detection",
+  "venue": "Frontiers in Plant Science",
+  "year": 2016,
+  "volume": "7",
+  "issue": "",
+  "pages": "Art. no. 1419",
+  "doi": "10.3389/fpls.2016.01419",
+  "type": "journal",
+  "theme": 1,
+  "one_line_finding": "Trains AlexNet/GoogLeNet on PlantVillage reaching near-perfect accuracy in-distribution but large drops on images from other sources, exposing the lab-to-field gap.",
+  "verified": true
+ },
+ {
+  "key": "singh2020plantdoc",
+  "authors": [
+   "D. Singh",
+   "N. Jain",
+   "P. Jain",
+   "P. Kayal",
+   "S. Kumawat",
+   "N. Batra"
+  ],
+  "title": "PlantDoc: A dataset for visual plant disease detection",
+  "venue": "Proceedings of the 7th ACM IKDD CoDS and 25th COMAD",
+  "year": 2020,
+  "volume": "",
+  "issue": "",
+  "pages": "249-253",
+  "doi": "10.1145/3371158.3371196",
+  "type": "conference",
+  "theme": 1,
+  "one_line_finding": "Introduces PlantDoc, a web-scraped in-the-wild dataset of 2,598 images over 13 plants and 17 disease classes, and shows models trained on lab data transfer poorly to cluttered real images.",
+  "verified": true
+ },
+ {
+  "key": "ahmad2021cds",
+  "authors": [
+   "A. Ahmad",
+   "D. Saraswat",
+   "A. El Gamal",
+   "G. Johal"
+  ],
+  "title": "CD&S dataset: Handheld imagery dataset acquired under field conditions for corn disease identification and severity estimation",
+  "venue": "arXiv preprint arXiv:2110.12084",
+  "year": 2021,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.48550/arXiv.2110.12084",
+  "type": "arxiv",
+  "theme": 1,
+  "one_line_finding": "Releases CD&S, handheld field images of corn leaves with northern leaf blight, gray leaf spot and northern leaf spot, including bounding boxes and severity ratings.",
+  "verified": true,
+  "note": "Verified via DataCite (arXiv DOI); companion peer-reviewed use is ahmad2022jasabe."
+ },
+ {
+  "key": "wiesnerhanks2018nlb",
+  "authors": [
+   "T. Wiesner-Hanks",
+   "E. L. Stewart",
+   "N. Kaczmar",
+   "C. DeChant",
+   "H. Wu",
+   "R. J. Nelson",
+   "et al."
+  ],
+  "title": "Image set for deep learning: field images of maize annotated with disease symptoms",
+  "venue": "BMC Research Notes",
+  "year": 2018,
+  "volume": "11",
+  "issue": "1",
+  "pages": "Art. no. 440",
+  "doi": "10.1186/s13104-018-3548-6",
+  "type": "journal",
+  "theme": 1,
+  "one_line_finding": "Publishes thousands of handheld, boom-mounted and UAV field images of maize with over 100,000 hand-annotated northern leaf blight lesions.",
+  "verified": true
+ },
+ {
+  "key": "xu2024datasets",
+  "authors": [
+   "M. Xu",
+   "J.-E. Park",
+   "J. Lee",
+   "J. Yang",
+   "S. Yoon"
+  ],
+  "title": "Plant disease recognition datasets in the age of deep learning: challenges and opportunities",
+  "venue": "Frontiers in Plant Science",
+  "year": 2024,
+  "volume": "15",
+  "issue": "",
+  "pages": "Art. no. 1452551",
+  "doi": "10.3389/fpls.2024.1452551",
+  "type": "journal",
+  "theme": 1,
+  "one_line_finding": "Surveys plant disease image datasets and argues that dataset design (acquisition conditions, label granularity, domain coverage) rather than model choice limits real-world performance.",
+  "verified": true
+ },
+ {
+  "key": "dechant2017nlb",
+  "authors": [
+   "C. DeChant",
+   "T. Wiesner-Hanks",
+   "S. Chen",
+   "E. L. Stewart",
+   "J. Yosinski",
+   "M. A. Gore",
+   "et al."
+  ],
+  "title": "Automated identification of northern leaf blight-infected maize plants from field imagery using deep learning",
+  "venue": "Phytopathology",
+  "year": 2017,
+  "volume": "107",
+  "issue": "11",
+  "pages": "1426-1432",
+  "doi": "10.1094/PHYTO-11-16-0417-R",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Combines several CNNs on image patches to detect NLB-infected maize plants in field photographs with about 96.7% test accuracy.",
+  "verified": true
+ },
+ {
+  "key": "kamilaris2018survey",
+  "authors": [
+   "A. Kamilaris",
+   "F. X. Prenafeta-Boldú"
+  ],
+  "title": "Deep learning in agriculture: A survey",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "volume": "147",
+  "issue": "",
+  "pages": "70-90",
+  "doi": "10.1016/j.compag.2018.02.016",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Reviews 40 agricultural deep learning studies and finds CNNs outperform hand-crafted pipelines while noting the scarcity of large public field datasets.",
+  "verified": true
+ },
+ {
+  "key": "ferentinos2018",
+  "authors": [
+   "K. P. Ferentinos"
+  ],
+  "title": "Deep learning models for plant disease detection and diagnosis",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "volume": "145",
+  "issue": "",
+  "pages": "311-318",
+  "doi": "10.1016/j.compag.2018.01.009",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Trains CNNs on about 87,000 images of 58 plant-disease pairs and reports that accuracy falls sharply when lab-trained models are tested on field images.",
+  "verified": true
+ },
+ {
+  "key": "barbedo2018datasize",
+  "authors": [
+   "J. G. A. Barbedo"
+  ],
+  "title": "Impact of dataset size and variety on the effectiveness of deep learning and transfer learning for plant disease classification",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2018,
+  "volume": "153",
+  "issue": "",
+  "pages": "46-53",
+  "doi": "10.1016/j.compag.2018.08.013",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Shows that limited size and variability of training images, not network capacity, are the main obstacles to robust plant disease classification.",
+  "verified": true
+ },
+ {
+  "key": "barbedo2019lesions",
+  "authors": [
+   "J. G. A. Barbedo"
+  ],
+  "title": "Plant disease identification from individual lesions and spots using deep learning",
+  "venue": "Biosystems Engineering",
+  "year": 2019,
+  "volume": "180",
+  "issue": "",
+  "pages": "96-107",
+  "doi": "10.1016/j.biosystemseng.2019.02.002",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Classifies diseases from individual lesion crops instead of whole leaves, increasing data diversity and accuracy, motivating lesion-level representations.",
+  "verified": true
+ },
+ {
+  "key": "too2019finetune",
+  "authors": [
+   "E. C. Too",
+   "L. Yujian",
+   "S. Njuki",
+   "L. Yingchun"
+  ],
+  "title": "A comparative study of fine-tuning deep learning models for plant disease identification",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2019,
+  "volume": "161",
+  "issue": "",
+  "pages": "272-279",
+  "doi": "10.1016/j.compag.2018.03.032",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Benchmarks fine-tuned VGG, Inception, ResNet and DenseNet on PlantVillage, with DenseNet giving the best accuracy-parameter trade-off.",
+  "verified": true
+ },
+ {
+  "key": "picon2019wild",
+  "authors": [
+   "A. Picon",
+   "A. Alvarez-Gila",
+   "M. Seitz",
+   "A. Ortiz-Barredo",
+   "J. Echazarra",
+   "A. Johannes"
+  ],
+  "title": "Deep convolutional neural networks for mobile capture device-based crop disease classification in the wild",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2019,
+  "volume": "161",
+  "issue": "",
+  "pages": "280-290",
+  "doi": "10.1016/j.compag.2018.04.002",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Deploys a ResNet-based classifier on smartphone images captured in real wheat fields, showing that in-the-wild data are needed for practical accuracy.",
+  "verified": true
+ },
+ {
+  "key": "chen2020transfer",
+  "authors": [
+   "J. Chen",
+   "J. Chen",
+   "D. Zhang",
+   "Y. Sun",
+   "Y. A. Nanehkaran"
+  ],
+  "title": "Using deep transfer learning for image-based plant disease identification",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2020,
+  "volume": "173",
+  "issue": "",
+  "pages": "Art. no. 105393",
+  "doi": "10.1016/j.compag.2020.105393",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Uses ImageNet-pretrained VGG with Inception modules (transfer learning) to recognise plant diseases under complex backgrounds with limited data.",
+  "verified": true
+ },
+ {
+  "key": "zhang2018maize",
+  "authors": [
+   "X. Zhang",
+   "Y. Qiao",
+   "F. Meng",
+   "C. Fan",
+   "M. Zhang"
+  ],
+  "title": "Identification of maize leaf diseases using improved deep convolutional neural networks",
+  "venue": "IEEE Access",
+  "year": 2018,
+  "volume": "6",
+  "issue": "",
+  "pages": "30370-30377",
+  "doi": "10.1109/ACCESS.2018.2844405",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Improves GoogLeNet and Cifar10-style CNNs to classify eight maize leaf diseases with accuracy above 98%.",
+  "verified": true
+ },
+ {
+  "key": "priyadharshini2019maize",
+  "authors": [
+   "R. A. Priyadharshini",
+   "S. Arivazhagan",
+   "M. Arun",
+   "A. Mirnalini"
+  ],
+  "title": "Maize leaf disease classification using deep convolutional neural networks",
+  "venue": "Neural Computing and Applications",
+  "year": 2019,
+  "volume": "31",
+  "issue": "12",
+  "pages": "8887-8895",
+  "doi": "10.1007/s00521-019-04228-3",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Applies a modified LeNet to PlantVillage maize classes (NLB, GLS, common rust, healthy) achieving about 97.9% accuracy.",
+  "verified": true
+ },
+ {
+  "key": "haque2022maize",
+  "authors": [
+   "M. A. Haque",
+   "S. Marwaha",
+   "C. K. Deb",
+   "S. Nigam",
+   "A. Arora",
+   "K. S. Hooda",
+   "et al."
+  ],
+  "title": "Deep learning-based approach for identification of diseases of maize crop",
+  "venue": "Scientific Reports",
+  "year": 2022,
+  "volume": "12",
+  "issue": "1",
+  "pages": "Art. no. 6334",
+  "doi": "10.1038/s41598-022-10140-z",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Trains Inception-v3-based CNNs on maize disease images captured under real field conditions in India, reporting high accuracy for major foliar diseases.",
+  "verified": true
+ },
+ {
+  "key": "craze2022gls",
+  "authors": [
+   "H. A. Craze",
+   "N. Pillay",
+   "F. Joubert",
+   "D. K. Berger"
+  ],
+  "title": "Deep learning diagnostics of gray leaf spot in maize under mixed disease field conditions",
+  "venue": "Plants",
+  "year": 2022,
+  "volume": "11",
+  "issue": "15",
+  "pages": "Art. no. 1942",
+  "doi": "10.3390/plants11151942",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Shows CNNs can identify gray leaf spot in smallholder field images where several foliar diseases co-occur on the same leaves.",
+  "verified": true
+ },
+ {
+  "key": "pan2022nclb",
+  "authors": [
+   "S.-Q. Pan",
+   "J.-F. Qiao",
+   "R. Wang",
+   "H.-L. Yu",
+   "C. Wang",
+   "K. Taylor",
+   "et al."
+  ],
+  "title": "Intelligent diagnosis of northern corn leaf blight with deep learning model",
+  "venue": "Journal of Integrative Agriculture",
+  "year": 2022,
+  "volume": "21",
+  "issue": "4",
+  "pages": "1094-1105",
+  "doi": "10.1016/S2095-3119(21)63707-3",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Uses data augmentation and pretrained CNNs to diagnose northern corn leaf blight from field images with high accuracy.",
+  "verified": true
+ },
+ {
+  "key": "ahmad2023generalization",
+  "authors": [
+   "A. Ahmad",
+   "A. El Gamal",
+   "D. Saraswat"
+  ],
+  "title": "Toward generalization of deep learning-based plant disease identification under controlled and field conditions",
+  "venue": "IEEE Access",
+  "year": 2023,
+  "volume": "11",
+  "issue": "",
+  "pages": "9042-9057",
+  "doi": "10.1109/ACCESS.2023.3240100",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Quantifies how models trained on lab images (PlantVillage) collapse on field corn images and shows that mixing field data improves cross-condition generalization.",
+  "verified": true
+ },
+ {
+  "key": "ahmad2023survey",
+  "authors": [
+   "A. Ahmad",
+   "D. Saraswat",
+   "A. El Gamal"
+  ],
+  "title": "A survey on using deep learning techniques for plant disease diagnosis and recommendations for development of appropriate tools",
+  "venue": "Smart Agricultural Technology",
+  "year": 2023,
+  "volume": "3",
+  "issue": "",
+  "pages": "Art. no. 100083",
+  "doi": "10.1016/j.atech.2022.100083",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Reviews deep learning plant disease studies and recommends field-collected data, severity estimation and deployable tools as priorities.",
+  "verified": true
+ },
+ {
+  "key": "fuentes2017tomato",
+  "authors": [
+   "A. Fuentes",
+   "S. Yoon",
+   "S. C. Kim",
+   "D. S. Park"
+  ],
+  "title": "A robust deep-learning-based detector for real-time tomato plant diseases and pests recognition",
+  "venue": "Sensors",
+  "year": 2017,
+  "volume": "17",
+  "issue": "9",
+  "pages": "Art. no. 2022",
+  "doi": "10.3390/s17092022",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Combines Faster R-CNN, R-FCN and SSD meta-architectures with VGG/ResNet backbones to localise nine tomato diseases and pests in greenhouse images.",
+  "verified": true
+ },
+ {
+  "key": "singh2018stress",
+  "authors": [
+   "A. K. Singh",
+   "B. Ganapathysubramanian",
+   "S. Sarkar",
+   "A. Singh"
+  ],
+  "title": "Deep learning for plant stress phenotyping: Trends and future perspectives",
+  "venue": "Trends in Plant Science",
+  "year": 2018,
+  "volume": "23",
+  "issue": "10",
+  "pages": "883-898",
+  "doi": "10.1016/j.tplants.2018.07.004",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Frames plant stress phenotyping as identification, classification, quantification and prediction, and calls for interpretable and uncertainty-aware models.",
+  "verified": true
+ },
+ {
+  "key": "mahlein2016sensors",
+  "authors": [
+   "A.-K. Mahlein"
+  ],
+  "title": "Plant disease detection by imaging sensors - Parallels and specific demands for precision agriculture and plant phenotyping",
+  "venue": "Plant Disease",
+  "year": 2016,
+  "volume": "100",
+  "issue": "2",
+  "pages": "241-251",
+  "doi": "10.1094/PDIS-03-15-0340-FE",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Reviews RGB, multispectral, hyperspectral and thermal sensing for disease detection and the requirements for field-scale precision agriculture.",
+  "verified": true
+ },
+ {
+  "key": "wu2023uda",
+  "authors": [
+   "X. Wu",
+   "X. Fan",
+   "P. Luo",
+   "S. Das Choudhury",
+   "T. Tjahjadi",
+   "C. Hu"
+  ],
+  "title": "From laboratory to field: Unsupervised domain adaptation for plant disease recognition in the wild",
+  "venue": "Plant Phenomics",
+  "year": 2023,
+  "volume": "5",
+  "issue": "",
+  "pages": "Art. no. 0038",
+  "doi": "10.34133/plantphenomics.0038",
+  "type": "journal",
+  "theme": 2,
+  "one_line_finding": "Proposes unsupervised domain adaptation that transfers lab-trained disease classifiers to unlabeled field images, narrowing the lab-to-field accuracy gap.",
+  "verified": true
+ },
+ {
+  "key": "bock2010severity",
+  "authors": [
+   "C. H. Bock",
+   "G. H. Poole",
+   "P. E. Parker",
+   "T. R. Gottwald"
+  ],
+  "title": "Plant disease severity estimated visually, by digital photography and image analysis, and by hyperspectral imaging",
+  "venue": "Critical Reviews in Plant Sciences",
+  "year": 2010,
+  "volume": "29",
+  "issue": "2",
+  "pages": "59-107",
+  "doi": "10.1080/07352681003617285",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Reviews accuracy and reliability of visual, image-analysis and hyperspectral severity estimation, documenting rater bias in visual assessment.",
+  "verified": true
+ },
+ {
+  "key": "bock2020severity",
+  "authors": [
+   "C. H. Bock",
+   "J. G. A. Barbedo",
+   "E. M. Del Ponte",
+   "D. Bohnenkamp",
+   "A.-K. Mahlein"
+  ],
+  "title": "From visual estimates to fully automated sensor-based measurements of plant disease severity: status and challenges for improving accuracy",
+  "venue": "Phytopathology Research",
+  "year": 2020,
+  "volume": "2",
+  "issue": "1",
+  "pages": "Art. no. 9",
+  "doi": "10.1186/s42483-020-00049-8",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Discusses how sensor- and AI-based severity measurement can replace visual rating and lists accuracy, calibration and validation challenges.",
+  "verified": true,
+  "note": "CrossRef record did not display the article number in the fetched summary; article no. 9 is the publisher numbering and should be double-checked."
+ },
+ {
+  "key": "wang2017severity",
+  "authors": [
+   "G. Wang",
+   "Y. Sun",
+   "J. Wang"
+  ],
+  "title": "Automatic image-based plant disease severity estimation using deep learning",
+  "venue": "Computational Intelligence and Neuroscience",
+  "year": 2017,
+  "volume": "2017",
+  "issue": "",
+  "pages": "1-8",
+  "doi": "10.1155/2017/2917536",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Fine-tunes VGG16 to classify apple black rot severity into four stages from PlantVillage images with about 90% accuracy.",
+  "verified": true
+ },
+ {
+  "key": "liang2019pd2se",
+  "authors": [
+   "Q. Liang",
+   "S. Xiang",
+   "Y. Hu",
+   "G. Coppola",
+   "D. Zhang",
+   "W. Sun"
+  ],
+  "title": "PD2SE-Net: Computer-assisted plant disease diagnosis and severity estimation network",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2019,
+  "volume": "157",
+  "issue": "",
+  "pages": "518-529",
+  "doi": "10.1016/j.compag.2019.01.034",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Jointly predicts plant species, disease type and severity level with a multi-task residual network.",
+  "verified": true
+ },
+ {
+  "key": "goncalves2021seg",
+  "authors": [
+   "J. P. Gonçalves",
+   "F. A. C. Pinto",
+   "D. M. Queiroz",
+   "F. M. M. Villar",
+   "J. G. A. Barbedo",
+   "E. M. Del Ponte"
+  ],
+  "title": "Deep learning architectures for semantic segmentation and automatic estimation of severity of foliar symptoms caused by diseases or pests",
+  "venue": "Biosystems Engineering",
+  "year": 2021,
+  "volume": "210",
+  "issue": "",
+  "pages": "129-142",
+  "doi": "10.1016/j.biosystemseng.2021.08.011",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Compares semantic segmentation networks that estimate percent diseased leaf area and shows close agreement with reference severity values.",
+  "verified": true
+ },
+ {
+  "key": "stewart2019uav",
+  "authors": [
+   "E. L. Stewart",
+   "T. Wiesner-Hanks",
+   "N. Kaczmar",
+   "C. DeChant",
+   "H. Wu",
+   "H. Lipson",
+   "et al."
+  ],
+  "title": "Quantitative phenotyping of northern leaf blight in UAV images using deep learning",
+  "venue": "Remote Sensing",
+  "year": 2019,
+  "volume": "11",
+  "issue": "19",
+  "pages": "Art. no. 2209",
+  "doi": "10.3390/rs11192209",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Applies Mask R-CNN instance segmentation to UAV images to delineate individual NLB lesions in maize for quantitative phenotyping.",
+  "verified": true
+ },
+ {
+  "key": "ahmad2022jasabe",
+  "authors": [
+   "A. Ahmad",
+   "D. Saraswat",
+   "A. El Gamal",
+   "G. S. Johal"
+  ],
+  "title": "Comparison of deep learning models for corn disease region location, identification of disease type, and severity estimation using images acquired from UAS-mounted and handheld sensors",
+  "venue": "Journal of the ASABE",
+  "year": 2022,
+  "volume": "65",
+  "issue": "6",
+  "pages": "1433-1442",
+  "doi": "10.13031/ja.14895",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Benchmarks detection, classification and severity models on handheld (CD&S) and UAS corn images for NLB, GLS and NLS.",
+  "verified": true
+ },
+ {
+  "key": "phan2022slic",
+  "authors": [
+   "H. Phan",
+   "A. Ahmad",
+   "D. Saraswat"
+  ],
+  "title": "Identification of foliar disease regions on corn leaves using SLIC segmentation and deep learning under uniform background and field conditions",
+  "venue": "IEEE Access",
+  "year": 2022,
+  "volume": "10",
+  "issue": "",
+  "pages": "111985-111995",
+  "doi": "10.1109/ACCESS.2022.3215497",
+  "type": "journal",
+  "theme": 3,
+  "one_line_finding": "Segments corn leaves into SLIC superpixels and classifies each region to localise diseased tissue in both lab and field images.",
+  "verified": true
+ },
+ {
+  "key": "stevens2024bioclip",
+  "authors": [
+   "S. Stevens",
+   "J. Wu",
+   "M. J. Thompson",
+   "E. G. Campolongo",
+   "C. H. Song",
+   "D. E. Carlyn",
+   "et al."
+  ],
+  "title": "BioCLIP: A vision foundation model for the tree of life",
+  "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+  "year": 2024,
+  "volume": "",
+  "issue": "",
+  "pages": "19412-19424",
+  "doi": "10.1109/CVPR52733.2024.01836",
+  "type": "conference",
+  "theme": 4,
+  "one_line_finding": "Trains a CLIP model on the TreeOfLife-10M dataset with taxonomic text, giving strong zero/few-shot transfer across biological including plant-disease tasks.",
+  "verified": true
+ },
+ {
+  "key": "zhou2024vlmfewshot",
+  "authors": [
+   "Y. Zhou",
+   "H. Yan",
+   "K. Ding",
+   "T. Cai",
+   "Y. Zhang"
+  ],
+  "title": "Few-shot image classification of crop diseases based on vision-language models",
+  "venue": "Sensors",
+  "year": 2024,
+  "volume": "24",
+  "issue": "18",
+  "pages": "Art. no. 6109",
+  "doi": "10.3390/s24186109",
+  "type": "journal",
+  "theme": 4,
+  "one_line_finding": "Adapts a CLIP-style vision-language model with textual disease prompts for few-shot crop disease classification, outperforming image-only few-shot baselines.",
+  "verified": true
+ },
+ {
+  "key": "li2024foundation",
+  "authors": [
+   "J. Li",
+   "M. Xu",
+   "L. Xiang",
+   "D. Chen",
+   "W. Zhuang",
+   "X. Yin",
+   "et al."
+  ],
+  "title": "Foundation models in smart agriculture: Basics, opportunities, and challenges",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2024,
+  "volume": "222",
+  "issue": "",
+  "pages": "Art. no. 109032",
+  "doi": "10.1016/j.compag.2024.109032",
+  "type": "journal",
+  "theme": 4,
+  "one_line_finding": "Reviews language, vision, multimodal and reinforcement-learning foundation models for agriculture, highlighting domain-shift and data-scarcity challenges.",
+  "verified": true
+ },
+ {
+  "key": "hernandez2020bayes",
+  "authors": [
+   "S. Hernández",
+   "J. L. López"
+  ],
+  "title": "Uncertainty quantification for plant disease detection using Bayesian deep learning",
+  "venue": "Applied Soft Computing",
+  "year": 2020,
+  "volume": "96",
+  "issue": "",
+  "pages": "Art. no. 106597",
+  "doi": "10.1016/j.asoc.2020.106597",
+  "type": "journal",
+  "theme": 5,
+  "one_line_finding": "Applies Bayesian deep learning to plant disease classification and shows predictive uncertainty can flag unreliable predictions.",
+  "verified": true
+ },
+ {
+  "key": "farag2025conformal",
+  "authors": [
+   "M. Farag",
+   "A. Emam",
+   "J. Leonhardt",
+   "R. Roscher"
+  ],
+  "title": "Enhancing decision support in crop production: Analyzing conformal prediction for uncertainty quantification",
+  "venue": "Computers and Electronics in Agriculture",
+  "year": 2025,
+  "volume": "237",
+  "issue": "",
+  "pages": "Art. no. 110559",
+  "doi": "10.1016/j.compag.2025.110559",
+  "type": "journal",
+  "theme": 5,
+  "one_line_finding": "Analyses conformal prediction for crop-production models, showing calibrated prediction sets/intervals with coverage guarantees aid decision support.",
+  "verified": true
+ },
+ {
+  "key": "fuentes2021openset",
+  "authors": [
+   "A. Fuentes",
+   "S. Yoon",
+   "T. Kim",
+   "D. S. Park"
+  ],
+  "title": "Open set self and across domain adaptation for tomato disease recognition with deep learning techniques",
+  "venue": "Frontiers in Plant Science",
+  "year": 2021,
+  "volume": "12",
+  "issue": "",
+  "pages": "Art. no. 758027",
+  "doi": "10.3389/fpls.2021.758027",
+  "type": "journal",
+  "theme": 5,
+  "one_line_finding": "Combines open-set recognition with domain adaptation so that tomato disease classifiers reject unknown classes when deployed on new farms.",
+  "verified": true
+ },
+ {
+  "key": "dong2023openworld",
+  "authors": [
+   "J. Dong",
+   "A. Fuentes",
+   "S. Yoon",
+   "H. Kim",
+   "Y. Jeong",
+   "D. S. Park"
+  ],
+  "title": "A new deep learning-based dynamic paradigm towards open-world plant disease detection",
+  "venue": "Frontiers in Plant Science",
+  "year": 2023,
+  "volume": "14",
+  "issue": "",
+  "pages": "Art. no. 1243822",
+  "doi": "10.3389/fpls.2023.1243822",
+  "type": "journal",
+  "theme": 5,
+  "one_line_finding": "Proposes an open-world detection paradigm in which unknown plant diseases are flagged and later incorporated through incremental annotation.",
+  "verified": true
+ },
+ {
+  "key": "dong2024unknown",
+  "authors": [
+   "J. Dong",
+   "A. Fuentes",
+   "H. Zhou",
+   "Y. Jeong",
+   "S. Yoon",
+   "D. S. Park"
+  ],
+  "title": "The impact of fine-tuning paradigms on unknown plant diseases recognition",
+  "venue": "Scientific Reports",
+  "year": 2024,
+  "volume": "14",
+  "issue": "1",
+  "pages": "Art. no. 17900",
+  "doi": "10.1038/s41598-024-66958-2",
+  "type": "journal",
+  "theme": 5,
+  "one_line_finding": "Shows that the fine-tuning paradigm applied to pretrained backbones strongly affects how well models recognise unknown plant diseases.",
+  "verified": true
+ },
+ {
+  "key": "savary2019burden",
+  "authors": [
+   "S. Savary",
+   "L. Willocquet",
+   "S. J. Pethybridge",
+   "P. Esker",
+   "N. McRoberts",
+   "A. Nelson"
+  ],
+  "title": "The global burden of pathogens and pests on major food crops",
+  "venue": "Nature Ecology & Evolution",
+  "year": 2019,
+  "volume": "3",
+  "issue": "3",
+  "pages": "430-439",
+  "doi": "10.1038/s41559-018-0793-y",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Estimates global yield losses from pathogens and pests, with maize losses of roughly 20-41% concentrated in food-insecure regions.",
+  "verified": true
+ },
+ {
+  "key": "mueller2016loss",
+  "authors": [
+   "D. S. Mueller",
+   "K. A. Wise",
+   "A. J. Sisson",
+   "T. W. Allen",
+   "G. C. Bergstrom",
+   "D. B. Bosley",
+   "et al."
+  ],
+  "title": "Corn yield loss estimates due to diseases in the United States and Ontario, Canada from 2012 to 2015",
+  "venue": "Plant Health Progress",
+  "year": 2016,
+  "volume": "17",
+  "issue": "3",
+  "pages": "211-222",
+  "doi": "10.1094/PHP-RS-16-0030",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Estimates disease-induced corn yield losses across 22 US states and Ontario, ranking NLB and GLS among the most damaging foliar diseases.",
+  "verified": true
+ },
+ {
+  "key": "mueller2020loss",
+  "authors": [
+   "D. S. Mueller",
+   "K. A. Wise",
+   "A. J. Sisson",
+   "T. W. Allen",
+   "G. C. Bergstrom",
+   "K. M. Bissonnette",
+   "et al."
+  ],
+  "title": "Corn yield loss estimates due to diseases in the United States and Ontario, Canada, from 2016 to 2019",
+  "venue": "Plant Health Progress",
+  "year": 2020,
+  "volume": "21",
+  "issue": "4",
+  "pages": "238-247",
+  "doi": "10.1094/PHP-05-20-0038-RS",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Updates loss estimates for 2016-2019, with northern corn leaf blight the leading foliar disease and multi-billion-dollar annual losses.",
+  "verified": true
+ },
+ {
+  "key": "erenstein2022maize",
+  "authors": [
+   "O. Erenstein",
+   "M. Jaleta",
+   "K. Sonder",
+   "K. Mottaleb",
+   "B. M. Prasanna"
+  ],
+  "title": "Global maize production, consumption and trade: trends and R&D implications",
+  "venue": "Food Security",
+  "year": 2022,
+  "volume": "14",
+  "issue": "5",
+  "pages": "1295-1319",
+  "doi": "10.1007/s12571-022-01288-7",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Documents maize's rise to the most-produced cereal and argues for R&D investment to secure supply, particularly in sub-Saharan Africa and Latin America.",
+  "verified": true
+ },
+ {
+  "key": "ward1999gls",
+  "authors": [
+   "J. M. J. Ward",
+   "E. L. Stromberg",
+   "D. C. Nowell",
+   "F. W. Nutter Jr."
+  ],
+  "title": "Gray leaf spot: A disease of global importance in maize production",
+  "venue": "Plant Disease",
+  "year": 1999,
+  "volume": "83",
+  "issue": "10",
+  "pages": "884-895",
+  "doi": "10.1094/PDIS.1999.83.10.884",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Reviews the global spread, epidemiology and management of gray leaf spot, linking epidemics to prolonged high humidity, leaf wetness and residue.",
+  "verified": true
+ },
+ {
+  "key": "paul2005glsrh",
+  "authors": [
+   "P. A. Paul",
+   "G. P. Munkvold"
+  ],
+  "title": "Influence of temperature and relative humidity on sporulation of Cercospora zeae-maydis and expansion of gray leaf spot lesions on maize leaves",
+  "venue": "Plant Disease",
+  "year": 2005,
+  "volume": "89",
+  "issue": "6",
+  "pages": "624-630",
+  "doi": "10.1094/PD-89-0624",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Quantifies how temperature and relative humidity govern C. zeae-maydis sporulation and GLS lesion expansion, giving weather thresholds for disease progress.",
+  "verified": true
+ },
+ {
+  "key": "levy1983nlb",
+  "authors": [
+   "Y. Levy"
+  ],
+  "title": "Biotic and environmental factors affecting infection of sweet corn with Exserohilum turcicum",
+  "venue": "Phytopathology",
+  "year": 1983,
+  "volume": "73",
+  "issue": "5",
+  "pages": "722",
+  "doi": "10.1094/Phyto-73-722",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Measures how temperature, dew duration and plant age affect E. turcicum infection, establishing moderate temperatures and long dew periods as NLB drivers.",
+  "verified": true,
+  "note": "CrossRef lists only Y. Levy as author and only the start page 722; the published article is commonly cited as Levy and Cohen - check the PDF before adding a co-author."
+ },
+ {
+  "key": "galiano2017turcica",
+  "authors": [
+   "A. L. Galiano-Carneiro",
+   "T. Miedaner"
+  ],
+  "title": "Genetics of resistance and pathogenicity in the maize/Setosphaeria turcica pathosystem and implications for breeding",
+  "venue": "Frontiers in Plant Science",
+  "year": 2017,
+  "volume": "8",
+  "issue": "",
+  "pages": "Art. no. 1490",
+  "doi": "10.3389/fpls.2017.01490",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Reviews NLB biology, worldwide yield impact, favourable environmental conditions and qualitative/quantitative resistance in maize.",
+  "verified": true
+ },
+ {
+  "key": "chaloner2021climate",
+  "authors": [
+   "T. M. Chaloner",
+   "S. J. Gurr",
+   "D. P. Bebber"
+  ],
+  "title": "Plant pathogen infection risk tracks global crop yields under climate change",
+  "venue": "Nature Climate Change",
+  "year": 2021,
+  "volume": "11",
+  "issue": "8",
+  "pages": "710-715",
+  "doi": "10.1038/s41558-021-01104-8",
+  "type": "journal",
+  "theme": 6,
+  "one_line_finding": "Models temperature-dependent infection risk for 80 fungal and oomycete pathogens and projects shifting risk to higher latitudes under warming.",
+  "verified": true
+ },
+ {
+  "key": "madden2007epidemics",
+  "authors": [
+   "L. V. Madden",
+   "G. Hughes",
+   "F. van den Bosch"
+  ],
+  "title": "The Study of Plant Disease Epidemics",
+  "venue": "St. Paul, MN, USA: The American Phytopathological Society",
+  "year": 2007,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1094/9780890545058",
+  "type": "book",
+  "theme": 6,
+  "one_line_finding": "Standard text on quantitative epidemiology, covering logistic/Gompertz disease progress curves, spatial spread and weather-based modelling.",
+  "verified": true,
+  "note": "CrossRef record lists issue year 2017 (online DOI edition); print edition 2007."
+ },
+ {
+  "key": "paul2005ann",
+  "authors": [
+   "P. A. Paul",
+   "G. P. Munkvold"
+  ],
+  "title": "Regression and artificial neural network modeling for the prediction of gray leaf spot of maize",
+  "venue": "Phytopathology",
+  "year": 2005,
+  "volume": "95",
+  "issue": "4",
+  "pages": "388-396",
+  "doi": "10.1094/PHYTO-95-0388",
+  "type": "journal",
+  "theme": 7,
+  "one_line_finding": "Predicts GLS severity from weather variables with regression and neural networks, showing ANN gives better accuracy for risk classification.",
+  "verified": true
+ },
+ {
+  "key": "gonzalez2023forecast",
+  "authors": [
+   "E. González-Domínguez",
+   "T. Caffi",
+   "V. Rossi",
+   "I. Salotti",
+   "G. Fedele"
+  ],
+  "title": "Plant disease models and forecasting: Changes in principles and applications over the last 50 years",
+  "venue": "Phytopathology",
+  "year": 2023,
+  "volume": "113",
+  "issue": "4",
+  "pages": "678-693",
+  "doi": "10.1094/PHYTO-10-22-0362-KD",
+  "type": "journal",
+  "theme": 7,
+  "one_line_finding": "Traces the evolution of weather-driven disease models from empirical rules to mechanistic and data-driven forecasting systems.",
+  "verified": true
+ },
+ {
+  "key": "he2025timeseries",
+  "authors": [
+   "T. He",
+   "M. Li",
+   "D. Jin"
+  ],
+  "title": "Deep learning-based time series prediction for precision field crop protection",
+  "venue": "Frontiers in Plant Science",
+  "year": 2025,
+  "volume": "16",
+  "issue": "",
+  "pages": "Art. no. 1575796",
+  "doi": "10.3389/fpls.2025.1575796",
+  "type": "journal",
+  "theme": 7,
+  "one_line_finding": "Applies deep time-series models to forecast field crop protection targets from temporal environmental data, supporting timely intervention.",
+  "verified": true
+ },
+ {
+  "key": "awais2025agrogpt",
+  "authors": [
+   "M. Awais",
+   "A. H. S. A. Alharthi",
+   "A. Kumar",
+   "H. Cholakkal",
+   "R. M. Anwer"
+  ],
+  "title": "AgroGPT: Efficient agricultural vision-language model with expert tuning",
+  "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+  "year": 2025,
+  "volume": "",
+  "issue": "",
+  "pages": "5687-5696",
+  "doi": "10.1109/WACV61041.2025.00555",
+  "type": "conference",
+  "theme": 4,
+  "one_line_finding": "Builds an agricultural instruction-tuning set from vision-only datasets and tunes a conversational VLM for crop and disease queries.",
+  "verified": true
+ },
+ {
+  "key": "musazade2026llmvlm",
+  "authors": [
+   "E. Musazade",
+   "I. I. Mrisho",
+   "J. Gao",
+   "X. Feng"
+  ],
+  "title": "Integration of LLMs and VLMs in plant stress phenotyping: From trait recognition to decision support",
+  "venue": "Plant Phenomics",
+  "year": 2026,
+  "volume": "8",
+  "issue": "1",
+  "pages": "Art. no. 100161",
+  "doi": "10.1016/j.plaphe.2025.100161",
+  "type": "journal",
+  "theme": 4,
+  "one_line_finding": "Reviews how large language and vision-language models are used for plant stress recognition and decision support, and their reliability limits.",
+  "verified": true
+ }
+]
